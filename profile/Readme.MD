@@ -65,16 +65,3 @@ A proprietary micro-LLM (500M parameters) for real-time PII masking. Anonymises 
 © 2026 YecoAI – Research Division · A startup owned by Marco Nasi
 
 [Terms](https://yecoai.com/terms) · [Privacy](https://yecoai.com/privacy) · [System Status](https://status.yecoai.com)
-
----
-
-## 🎯 Perché Funziona
-
-| Elemento | Spiegazione |
-|----------|-------------|
-| **"Researching the next layer of intelligence"** | Tagline potente e ambiziosa. |
-| **"DigithON 2026 finalist"** | Credibilità immediata. |
-| **"Invitalia-backed"** | Validazione istituzionale. |
-| **Synapse e Yeco-PII** | Prodotti chiari e distinti. |
-| **Open-source projects** | Mostra attività e trasparenza. |
-| **"Privacy-first, EU-ready"** | Posizionamento strategico. |
