@@ -1,70 +1,80 @@
-<p align="center">
-  <img src="https://api-img.highmark.it/img/yecoai/logo.png" alt="YecoAI logo" width="160" />
-</p>
+# YecoAI
 
-<h1 align="center">YecoAI</h1>
-<p align="center"><em>Researching the next layer of intelligence.</em></p>
+**Researching the next layer of intelligence.**
 
----
+YecoAI is an Italian AI research company building dependable, privacy-first systems for real-world deployment. We focus on model design, serving infrastructure, evaluation harnesses, and cognitive architectures — with a strong emphasis on transparency, reproducibility, and EU regulatory compliance.
 
-### 🔬 About
+We are a **DigithON 2026 finalist** and backed by **Invitalia**, the Italian government's agency for business development.
 
-We are an AI research company focused on rigorous, reproducible methodologies that turn frontier ideas into dependable systems. Our work spans model design, serving infrastructure, evaluation harnesses, and **privacy‑by‑design** practices.
-
-We publish transparent criteria, maintain internal benchmarks, and collaborate with domain experts to ensure progress is both measurable and meaningful.
-
-🌐 [yecoai.com](https://yecoai.com) • 📬 [Newsletter](https://yecoai.com/newsletter) • 📄 [Our mission](https://yecoai.com/about) • ✉️ [Contact](https://yecoai.com/contact)
+🔬 **Website:** [yecoai.com](https://yecoai.com) · ✉️ [Contact](mailto:support@yecoai.com)
 
 ---
 
-### 🧭 How We Work
+## 🧭 How We Work
 
-- **Research‑first** – rigorous evaluation at every step, with documented trade‑offs and constraints.
-- **Transparent** – reproducible methodologies, clear benchmarks, deterministic APIs.
-- **Privacy‑first** – EU‑ready compliance from day one, consent‑aware data strategies.
-
----
-
-### 🔬 Focused Research Areas
-
-<table>
-  <tr>
-    <td>⚡ <strong>AI Infrastructure</strong><br/>Low‑latency pipelines, evaluation harnesses, robust serving systems that scale from prototype to production.</td>
-    <td>🔒 <strong>Ethical Models</strong><br/>Privacy‑aware data strategies, transparent evaluation criteria, user trust & regulatory compliance.</td>
-  </tr>
-  <tr>
-    <td>🧠 <strong>Cognitive Architectures</strong><br/>Exogenous layers (e.g. Anti‑Loop) that stabilise agent cognition and enable deterministic autonomy.</td>
-    <td>🛡️ <strong>Security Research</strong><br/>Prompt injection defence with structured frameworks (SSPI), sandbox guards, and deterministic filters.</td>
-  </tr>
-</table>
+- **Research-first:** rigorous evaluation at every step, with documented trade-offs and constraints.
+- **Transparent:** reproducible methodologies, clear benchmarks, deterministic APIs.
+- **Privacy-first:** EU-ready compliance from day one, consent-aware data strategies.
 
 ---
 
-### 🚀 Featured Open‑Source Projects
+## 🔬 Focused Research Areas
+
+| Area | Description |
+|------|-------------|
+| **AI Infrastructure** | Low-latency pipelines, evaluation harnesses, robust serving systems that scale from prototype to production. |
+| **Cognitive Architectures** | Exogenous layers (e.g., Anti-Loop) that stabilise agent cognition and enable deterministic autonomy. |
+| **Privacy & Compliance** | Privacy-aware data strategies, GDPR-ready design, EU AI Act alignment. |
+| **Security Research** | Prompt injection defence with structured frameworks, sandbox guards, and deterministic filters. |
+
+---
+
+## 🧠 Products
+
+### Synapse
+An autonomous AI support agent for hosting providers. Integrates with WHMCS, Proxmox, and VirtFusion to automate L1 and L2 support tickets — 24/7, with multi-layer safety and GDPR compliance.
+
+*Currently in Beta.*
+
+### Yeco-PII
+A proprietary micro-LLM (500M parameters) for real-time PII masking. Anonymises names, IPs, passwords, IBANs, tax codes, and health data — on-device, with <50ms latency. GDPR and EU AI Act compliant.
+
+*Launching September 2026.*
+
+---
+
+## 🚀 Featured Open-Source Projects
 
 | Project | Description | Stack |
-|---|---|---|
-| [**YecoAI Cognitive Layer**](https://github.com/YecoAI/YecoAI-Cognitive-Layer) | Lightweight layer that detects loops, amnesia, and semantic degradation in LLM outputs (96% accuracy, 1.7ms latency). | Python |
-| [**YecoAI Security Layer**](https://github.com/YecoAI/YecoAI-Security-Layer) | Deterministic, ultra‑low‑latency security layer implementing Asimov’s laws injection, context‑aware N‑gram filtering, Enterprise DLP, and sandbox guards. | Python |
-| [**IDE‑Pocket**](https://github.com/YecoAI/IDE-Pocket) | Your PC in your pocket – an open‑source autonomous AI agent that controls your computer via smartphone. Multi‑LLM support (Claude, GPT, Ollama). | Python |
-| [**ArchGen AI**](https://github.com/YecoAI/ArchGen-AI) | Generates interactive architecture diagrams from text, plus full technical documentation, stack advice, security & cost insights. | TypeScript |
+|---------|-------------|-------|
+| **YecoAI Cognitive Layer** | Lightweight layer that detects loops, amnesia, and semantic degradation in LLM outputs (96% accuracy, 1.7ms latency). | Python |
+| **YecoAI Security Layer** | Deterministic, ultra-low-latency security layer implementing Asimov's laws injection, context-aware N-gram filtering, Enterprise DLP, and sandbox guards. | Python |
+| **ArchGen AI** | Generates interactive architecture diagrams from text, plus complete technical documentation, stack advice, security & cost insights. | TypeScript |
+| **Aegis Engine** | High-performance, multi-layered moderation framework for Discord and messaging platforms, powered by NLP and behavioural heuristics. | Python |
 
 ---
 
-### 🧪 Try YecoAI Lab
+## 🏆 Recognitions
 
-**[Launch Lab](https://lab.yecoai.com)** – our advanced AI chat interface built for deep research, complex analysis, and exploring the boundaries of interaction capabilities.
-
----
-
-### 📬 Stay Informed
-
-- [Subscribe to the newsletter](https://yecoai.com/newsletter) for research results, engineering notes, and evaluation findings.
-- Read our [latest research](https://yecoai.com/research).
+- **DigithON 2026 Finalist** — Top 100 startups in Italy
+- **Invitalia Grant** — Funded by the Italian government
+- **AWS Startup Program** — Cloud infrastructure partner
 
 ---
 
-<p align="center">
-  <sub>© 2026 YecoAI – Research Division · A startup owned by highmark.it</sub><br/>
-  <sub><a href="https://yecoai.com/terms">Terms</a> · <a href="https://yecoai.com/privacy">Privacy</a> · <a href="https://status.yecoai.com">System Status</a></sub>
-</p>
+© 2026 YecoAI – Research Division · A startup owned by Marco Nasi
+
+[Terms](https://yecoai.com/terms) · [Privacy](https://yecoai.com/privacy) · [System Status](https://status.yecoai.com)
+
+---
+
+## 🎯 Perché Funziona
+
+| Elemento | Spiegazione |
+|----------|-------------|
+| **"Researching the next layer of intelligence"** | Tagline potente e ambiziosa. |
+| **"DigithON 2026 finalist"** | Credibilità immediata. |
+| **"Invitalia-backed"** | Validazione istituzionale. |
+| **Synapse e Yeco-PII** | Prodotti chiari e distinti. |
+| **Open-source projects** | Mostra attività e trasparenza. |
+| **"Privacy-first, EU-ready"** | Posizionamento strategico. |
