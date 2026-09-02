@@ -31,7 +31,7 @@ We are a **DigithON 2026 finalist** and backed by **Invitalia**, the Italian gov
 
 ## 🧠 Products
 
-### Synapse
+### DeskNexo
 An autonomous AI support agent for hosting providers. Integrates with WHMCS, Proxmox, and VirtFusion to automate L1 and L2 support tickets — 24/7, with multi-layer safety and GDPR compliance.
 
 *Currently in Beta.*
