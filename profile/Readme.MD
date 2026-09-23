@@ -2,11 +2,11 @@
 
 **Researching the next layer of intelligence.**
 
-YecoAI is an Italian AI research company building dependable, privacy-first systems for real-world deployment. We focus on model design, serving infrastructure, evaluation harnesses, and cognitive architectures — with a strong emphasis on transparency, reproducibility, and EU regulatory compliance.
+YecoAI is an Italian AI company building AI-First vertical solutions and privacy-first systems for real-world deployment. We focus on model design, serving infrastructure, evaluation harnesses, and cognitive architectures — with a strong emphasis on transparency, reproducibility, and EU regulatory compliance.
 
-We are a **DigithON 2026 finalist** and backed by **Invitalia**, the Italian government's agency for business development.
+We are backed by **Invitalia**, the Italian government's agency for business development, and part of the **AWS Startup Program**.
 
-🔬 **Website:** [yecoai.com](https://yecoai.com) · ✉️ [Contact](mailto:support@yecoai.com)
+🔬 **Website:** [yecoai.com](https://www.yecoai.com) · ✉️ [Contact](mailto:support@yecoai.com)
 
 ---
 
@@ -37,9 +37,14 @@ An autonomous AI support agent for hosting providers. Integrates with WHMCS, Pro
 *Currently in Beta.*
 
 ### Yeco-PII
-A proprietary micro-LLM (500M parameters) for real-time PII masking. Anonymises names, IPs, passwords, IBANs, tax codes, and health data — on-device, with <50ms latency. GDPR and EU AI Act compliant.
+A proprietary micro-LLM (278M parameters) for real-time PII masking. Anonymises names, IPs, passwords, IBANs, tax codes, and health data — on-device, with <50ms latency. GDPR and EU AI Act compliant.
 
-*Launching September 2026.*
+*Launching Q4 2026.*
+
+### Yeco Flash Mini-IT
+A 120M parameter Italian Mini PoC LLM. Outperforms Emma-5 550M on 5/5 benchmarks, trained on cloud GPU for <15€, CPU-optimised.
+
+*Experimental.*
 
 ---
 
@@ -50,18 +55,17 @@ A proprietary micro-LLM (500M parameters) for real-time PII masking. Anonymises 
 | **YecoAI Cognitive Layer** | Lightweight layer that detects loops, amnesia, and semantic degradation in LLM outputs (96% accuracy, 1.7ms latency). | Python |
 | **YecoAI Security Layer** | Deterministic, ultra-low-latency security layer implementing Asimov's laws injection, context-aware N-gram filtering, Enterprise DLP, and sandbox guards. | Python |
 | **ArchGen AI** | Generates interactive architecture diagrams from text, plus complete technical documentation, stack advice, security & cost insights. | TypeScript |
-| **Aegis Engine** | High-performance, multi-layered moderation framework for Discord and messaging platforms, powered by NLP and behavioural heuristics. | Python |
 
 ---
 
 ## 🏆 Recognitions
 
-- **DigithON 2026 Finalist** — Top 100 startups in Italy
-- **Invitalia Grant** — Funded by the Italian government
-- **AWS Startup Program** — Cloud infrastructure partner
+- **DigithON 2026 Finalist** - Top 100 startups in Italy
+- **Invitalia Grant** - Funded by the Italian government
+- **AWS Startup Program** - Cloud infrastructure partner
 
 ---
 
-© 2026 YecoAI – Research Division · A startup owned by Marco Nasi
+© 2026 YecoAI · Founded by Marco Nasi
 
 [Terms](https://yecoai.com/terms) · [Privacy](https://yecoai.com/privacy) · [System Status](https://status.yecoai.com)
